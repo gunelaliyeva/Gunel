@@ -1,0 +1,57 @@
+.row{
+	padding-right: 15px;
+	display: flex;
+	justify-content: space-between;
+	background: #385898;
+}
+.row h3{
+	color: white;
+	font-family: inherit;
+	font-size: 2rem;
+	font-weight: bold;
+	margin:10px 10px;
+}
+.inputs{
+	color: white;
+	margin-top: 15px;
+}
+
+body{
+	background: #edf0f5;
+}
+
+main{
+	display: flex;
+	justify-content: flex-end;
+}
+.main .inputSecond input{
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+.main .inputFirst{
+	margin-bottom: 10px;
+}
+.main .inputFirst input{
+	padding: 10px;
+}
+.main{
+	margin-right: 30px;
+}
+.main #name{
+	margin-right: 10px;
+}
+.main h3{
+	font-size: 2rem;
+}
+.main p{
+	font-size: 
+}
+
+.main .kaydol{
+	padding: 15px;
+	background: green;
+	font-weight: bold;
+	color: white;
+	margin-top: 10px;
+}
