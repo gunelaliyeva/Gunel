@@ -1,0 +1,137 @@
+body{
+	background-color: #fafafa;
+}
+.register{
+	width: 350px;
+	height: 650px;
+	background-color: white;
+	border: 1px solid lightgrey;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.logo{
+	height: 70px;
+	background-image: url("5a4e432a2da5ad73df7efe7a.png");
+	background-size: 70%, 100%; 
+	background-repeat: no-repeat;
+	margin-left: 70px;
+	border: 1px solid transparent;
+}
+p{
+	font-family: arial;
+	color: grey;
+	font-size: 18px;
+	text-align: center;
+}
+.daxil{
+	height: 50px;
+}
+.button{
+	background-color: #3897f0;
+	color: white;
+	border-radius: 4px;
+	border: 1px solid #3897f0;
+	height: 30px;
+	width: 270px;
+}
+.img{
+	background-color: #3897f0;
+}
+.d{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.qeyd{
+	padding: 10px;
+	margin-left: 40px;
+	width: 250px;
+	background-color: #fafafa;
+	border: 1px solid #fafafa;
+	margin-top: 10px;
+	border-radius: 4px;
+}
+.sert{
+	text-align: center;
+	color: grey;
+}
+a{
+	color: grey;
+	text-decoration: none;
+}
+.basqa_hesab{
+	width: 350px;
+	height: 50px;
+	background-color: white;
+	border: 1px solid lightgrey;
+	margin-left: 50px;
+	margin-top: 10px;
+	text-align: center;
+}
+.l{
+	color: #3891f0;
+}
+.qurun{
+	margin-left: 170px;
+}
+.apps{
+	margin-left: 650px;
+	float: left;
+	width: 500px;
+}
+.app_store{
+	background-image: url("download-on-app-store-png-click-the-qr-code-to-show-the-download-link-800.png");
+	width: 150px;
+	height: 40px;
+	background-size: 100% 75%;
+	float: left;
+	margin-top: 35px;
+	background-repeat: no-repeat;
+	float: left;
+}
+.google_play{
+	background-image: url("google-play-transparent.png");
+	width: 170px;
+	height: 50px;
+	background-size: 100% 100%;
+	float: left;
+	margin-top: 25px;
+	float: left;
+}
+.microsoft{
+	background-image: url("microsoft.png");
+	width: 170px;
+	height: 100px;
+	background-size: 100% 100%;
+	float: left;
+	margin-top: 0px;
+	float: left;
+}
+.foot{
+	color: darkblue;
+	font-family: arial;
+	font-size: 15px;
+}
+footer{
+	margin-top: 50px;
+	margin-left: 200px;
+	float: left;
+}
+span{
+	color: grey;
+	font-family: arial;
+	font-size: 15px;
+}
+.phone{
+	float: left;
+	background-image: url("phone.png");
+	background-size: 100% 100%;
+	width: 300px;
+	height: 500px;
+	margin-top: 70px;
+}
+.umumi{
+	float: left;
+}
+.esas{
+	margin-left: 350px;
+}
